@@ -21,3 +21,26 @@ Includes certificates from different platforms such as:
    Check out my certificate of accomplishment [HERE](https://www.datacamp.com/completed/statement-of-accomplishment/track/6b67cb8416b7d6ce7fa0a6bbb26246e8524fcf10) 
 
    To learn more about the program and it's curriculum, check out [Datacamp Associate Data Scientist Track in Python](https://www.datacamp.com/tracks/associate-data-scientist-in-python)
+
+# Individual Courses List
+## - Datacamp
+### - Data Scientist
+   - Data Manipulation with Pandas
+   - Joining Data with Pandas
+   - Intro to Statistics
+   - Intro to Data Visualization in Matplotlib
+   - Intro to Data Visualization with Seaborn
+   - Exploratory Data Analysis in Python
+   - Working with Categorical Data in Python
+   - Data Communications Concepts
+   - Intro to Importing Data in Python
+   - Cleaning Data in Python
+   - Working with Dates and Times in Python
+   - Writing Functions in Python
+   - Intro to Regression with statsmodels in Python
+   - Sampling in Python
+   - Hypothesis Testing in Python
+   - Experimental Design in Python
+   - Supervised Learning with scikit-learn
+   - Unsupervised Learning in Python
+   - Machine Learning with Tree-based Models in Python
