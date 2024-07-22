@@ -44,3 +44,9 @@ Includes certificates from different platforms such as:
    - Supervised Learning with scikit-learn
    - Unsupervised Learning in Python
    - Machine Learning with Tree-based Models in Python
+
+## - Kaggle
+   - Pandas
+   - Data Visualization
+   - Intro to Machine Learning
+   - Intermediate Machine Learning
